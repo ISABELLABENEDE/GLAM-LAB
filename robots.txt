@@ -1,0 +1,5 @@
+# Glam Lab: all pages may be crawled.
+User-agent: *
+Allow: /
+
+Sitemap: https://YOUR-USERNAME.github.io/glam-lab/sitemap.xml
